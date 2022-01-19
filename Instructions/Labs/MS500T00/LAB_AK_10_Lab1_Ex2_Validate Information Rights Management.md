@@ -61,7 +61,7 @@ You will begin by having Holly create a new SharePoint site collection, configur
 
 4. On the **Active sites** page, select **+ Create**.
 
-5. Scroll down to **Other options** then in the **Choose a template** drop down box choose **More Templates**
+5. Select the **Other options** tile and then in the **Choose a template** drop down box choose **More templates**.
 
 6. On the **Create site collection** window, enter the following attributes:
 
@@ -81,8 +81,6 @@ You will begin by having Holly create a new SharePoint site collection, configur
 7. Select **OK**.
 
 8. Wait for the new SharePoint site to be created, which may take up to 15 minutes. The new Marketing site collection will appear in the **Active sites** collection list, but the “Processing” circle will continue to spin to the right of the site collection while it continues being created. 
-
-9. Once the Marketing site collection is created, **New** will appear to the right of the site collection.
 
 10. In your web browser, open a new tab and connect to: `https://M365xZZZZZZ.sharepoint.com/sites/marketing` (where ZZZZZZ is your tenant ID provided by your lab hosting provider)
 
