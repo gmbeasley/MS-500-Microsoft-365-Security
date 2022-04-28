@@ -12,7 +12,7 @@ In this task, you will add the URL **http://tailspintoys.com** to the company-wi
 
 3. In the **Security &amp; Compliance center**, in the left navigation pane, select **Threat Management** and then select **Policy**.
 
-4. In the **Policies & rules** window, select **Safe links**.
+4. In the **Threat policies** window, select **Safe links**.
 
 5. In the **Safe links** window, click **Global Settings**.
 
