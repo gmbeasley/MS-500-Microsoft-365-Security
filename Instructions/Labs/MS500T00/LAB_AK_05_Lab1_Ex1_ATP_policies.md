@@ -108,7 +108,7 @@ In this task, you will, and you&#39;ll create an ATP Safe Attachments policy tha
 
 3. In the **Office 365 Security &amp; Compliance center**, in the left navigation pane under **Threat Management**, select **Policy**.
 
-4. In the **Policies & rules** window, select **Safe Attachments**.
+4. In the **Threat policies** window, select **Safe Attachments**.
 
 5. On the **Safe attachments** window, at the top of the page under **Global Settings** in the **Protect files in SharePoint, OneDrive, and Microsoft Teams** section, select the **Turn on Defender for Office 365 for SharePoint, OneDrive and Microsoft Teams** switch. Select **Save**.
 
