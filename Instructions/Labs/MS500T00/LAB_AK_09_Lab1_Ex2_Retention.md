@@ -80,7 +80,7 @@ As part of your pilot project for Adatum, you will create a retention policy in 
 
 1. In **Microsoft Edge**, go to the [**Microsoft 365 compliance**](https://compliance.microsoft.com/).  Make sure that you are logged in as **Holly Dickson**.
 
-2. In the left navigation pane, click **Information Governance** (you might need to click **... Show all** first) and then select the **Retention policies** tab.
+2. In the left navigation pane, click **Data lifecycle management** (you might need to click **... Show all** first) and then select the **Retention policies** tab.
 
 3. In the **Retention policies** tab, click **+ New retention policy** to start the wizard that’s used to create a new retention policy.
 
